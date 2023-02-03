@@ -2675,7 +2675,7 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: f88c66ffb0208b64bb542df1ddafbfe4, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
-  octaves: 4
+  octaves: 8
   seed: 0
   persistance: 0.3
   lacunarity: 3
